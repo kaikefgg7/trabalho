@@ -1,0 +1,21 @@
+body{
+background-color: white;
+ 
+}
+ul{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: #077FC2;
+ display: flex;
+ justify-content: right;
+ list-style-type: none;
+ font-size:x-large;
+}
+a{ 
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+}
+nav a:hover{
+  color: #a4a8ab;
+
+}

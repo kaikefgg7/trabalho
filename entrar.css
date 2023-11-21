@@ -1,0 +1,32 @@
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+ 
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+form input{
+    outline:unset;
+    padding: 10px;
+    border: 2px solid #077FC2;
+    width: 200px;
+    border-radius: 15px;
+}
+form input[type=submit]{
+    background-color: #077FC2;
+    color: white;
+    cursor:pointer
+
+}
+form label{
+    margin-right: 250px;
+}

@@ -1,0 +1,13 @@
+img{
+    width: 400px;
+    height:300px;
+    border-radius: 0%;
+}
+.titulo{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: x-large;
+   padding: 0px;
+
+}
